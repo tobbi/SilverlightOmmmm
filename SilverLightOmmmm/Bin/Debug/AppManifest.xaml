@@ -1,0 +1,9 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="SilverLightOmmmm" EntryPointType="SilverLightOmmmm.App" RuntimeVersion="5.0.61118.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="SilverLightOmmmm" Source="SilverLightOmmmm.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.DataAnnotations" Source="System.ComponentModel.DataAnnotations.dll" />
+    <AssemblyPart x:Name="System.ServiceModel.DomainServices.Client" Source="System.ServiceModel.DomainServices.Client.dll" />
+    <AssemblyPart x:Name="System.ServiceModel.DomainServices.Client.Web" Source="System.ServiceModel.DomainServices.Client.Web.dll" />
+    <AssemblyPart x:Name="System.ServiceModel.Web.Extensions" Source="System.ServiceModel.Web.Extensions.dll" />
+  </Deployment.Parts>
+</Deployment>

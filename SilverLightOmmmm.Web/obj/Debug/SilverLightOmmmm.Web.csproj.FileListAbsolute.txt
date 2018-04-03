@@ -1,0 +1,6 @@
+c:\users\t.markus\documents\visual studio 2015\Projects\SilverLightOmmmm\SilverLightOmmmm.Web\bin\SilverLightOmmmm.Web.dll.config
+c:\users\t.markus\documents\visual studio 2015\Projects\SilverLightOmmmm\SilverLightOmmmm.Web\bin\SilverLightOmmmm.Web.dll
+c:\users\t.markus\documents\visual studio 2015\Projects\SilverLightOmmmm\SilverLightOmmmm.Web\bin\SilverLightOmmmm.Web.pdb
+c:\users\t.markus\documents\visual studio 2015\Projects\SilverLightOmmmm\SilverLightOmmmm.Web\obj\Debug\SilverLightOmmmm.Web.csprojResolveAssemblyReference.cache
+c:\users\t.markus\documents\visual studio 2015\Projects\SilverLightOmmmm\SilverLightOmmmm.Web\obj\Debug\SilverLightOmmmm.Web.dll
+c:\users\t.markus\documents\visual studio 2015\Projects\SilverLightOmmmm\SilverLightOmmmm.Web\obj\Debug\SilverLightOmmmm.Web.pdb
